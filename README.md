@@ -1,0 +1,1 @@
+This is the Jupyter notebook for Principal component analysis of Fashion MNIST
